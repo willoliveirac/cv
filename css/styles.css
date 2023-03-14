@@ -1,0 +1,29 @@
+body {
+    background-color: #CBE4DE;
+
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#2F58CD;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+
+}
+
+h1{
+    color: #0E8388;
+}
+
+h3{
+    color: #0E8388;
+}
+
+/*CLASS SELECTORS*/
+
+.nome{
+    color: #2C3333;
+}
